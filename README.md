@@ -8,7 +8,7 @@
   <img height="30px" src="./images/flowers.gif"/><img height="30px" src="./images/flowers.gif"/>
 </p>
 <p align=center>
-  <img height="35px" src="./images/%E7%99%BD%E7%8B%90.gif"/><img height="70px" alt="🦑" src="https://count.getloli.com/get/@zivenyang?theme=rule34">
+  <img height="35px" src="./images/%E7%99%BD%E7%8B%90.gif"/>
 </p>
 <p align=center>
   <img height="30px" src="./images/flowers.gif"/><img height="30px" src="./images/flowers.gif"/>
